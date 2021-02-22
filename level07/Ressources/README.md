@@ -1,0 +1,1 @@
+we use ltrace we found this code get LOGNAME from env and print it so we export Logname=\`getflag\` and we get the flag
